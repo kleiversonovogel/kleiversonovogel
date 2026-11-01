@@ -3,9 +3,9 @@
 Technologies
 - HTML5
 - CSS3
-- JavaScript
-- Next.js
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤCurrently learning
+
+## Currently learning
+
 - JavaScript
 - Front-end development
 - Web development fundamentals
