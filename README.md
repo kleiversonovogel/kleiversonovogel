@@ -7,5 +7,7 @@ Technologies
 ## Currently learning
 
 - JavaScript
+- Node.js
+- Git
 - Front-end development
 - Web development fundamentals
