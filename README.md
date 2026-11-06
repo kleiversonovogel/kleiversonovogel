@@ -3,7 +3,7 @@
 <h3 align="center">Technologies</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git">
 </p>
 
 <hr>
